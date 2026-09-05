@@ -6,3 +6,16 @@ __pycache__/
 *.pyc
 backend/venv/
 ner-auth-module.zip
+
+# Build output
+dist/
+
+# Environment variables / secrets
+.env
+*.env
+
+# Local databases
+*.db
+
+# OS files
+.DS_Store
